@@ -45,3 +45,4 @@ intercept = model.intercept_
 print(f"Slope: {slope:.2f}")
 print(f"Intercept: {intercept:.2f}")
 print(f"📈 Predicted price for a 2000 sqft house: £{predicted_price:,.2f}")
+print("✅ Model training and prediction completed successfully!")
